@@ -70,6 +70,13 @@ public String getNombre() {
     public void setEdad(int edad) {
         this.edad = edad;
     }
+    
+    public boolean mayor(){
+    if(this.edad>=18){return true;}
+    
+    else return false;
+    
+    }
 
    
    
