@@ -77,6 +77,10 @@ public String getNombre() {
     else return false;
     
     }
+    
+    /**
+     *Cambios por aqui y por alla
+     */
 
    
    
