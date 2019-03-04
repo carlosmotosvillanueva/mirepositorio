@@ -77,7 +77,7 @@ public String getNombre() {
     else return false;
     
     }
-    
+    $valor;
     /**
      *Cambios por aqui y por alla
      */
