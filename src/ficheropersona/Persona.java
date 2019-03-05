@@ -13,7 +13,7 @@ public class Persona {
      */
     public Persona() {
         nombre="";
-        edad=0;
+        edad=2;
        
     }
 /**
@@ -58,10 +58,7 @@ public String getNombre() {
   * metodo para devolver edad de la persona
   * @return edad de la persona
   */
-    public int getEdad() {
-        return edad;
-    }
-    
+ 
     /**
      * Metodo para establecer la edad de la persona
      * @param edad edad de la persona
